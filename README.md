@@ -1,16 +1,31 @@
-# flutter_fittedbox_app
+# Flutter FittedBox Widget
 
-A new Flutter application.
+Flutter Tutorial - Flutter FittedBox Widget
+I will be showing how to use FittedBox Widget.
 
+Flutter Tutorial - Flutter FittedBox Widget Video series can be watched here https://youtu.be/ggJ-Wy9P7VM
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-FittedBox/blob/master/assets/Screenshot_1566251870.png" width="200"/>
+            </td>            
+            <td style="text-align: center">              
+                    <img src="https://github.com/whatsupcoders/Flutter-FittedBox/blob/master/assets/Screenshot_1566251872.png" width="200"/>
+            </td>
+            <td style="text-align: center">
+                    <img src="https://github.com/whatsupcoders/Flutter-FittedBox/blob/master/assets/fittedbox.gif" width="200" />
+            </td>
+        </tr>
+  </table>
+  </div>
+  
+For more Flutter Tutorials watch my videos on https://www.youtube.com/c/whatsupcoders <br />
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
-A few resources to get you started if this is your first Flutter project:
+FOLLOW ME HERE:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Facebook: https://www.facebook.com/whatsupcoders
+Twitter: https://www.twitter.com/whatsupcoders
